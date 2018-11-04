@@ -45,7 +45,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## From Author
 
-would add some type of clearing unseen list items to free up memory
+would add some type of clearing already seen list items to free up memory
 
 would be good if item container takes only last 10 and not 0 - all items as well (example: 0 - 10, 10 - 20 and not 0 - 10, 0 - 20, etc)
 
