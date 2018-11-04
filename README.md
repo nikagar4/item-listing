@@ -50,3 +50,7 @@ would add some type of clearing already seen list items to free up memory
 would be good if item container takes only last 10 and not 0 - all items as well (example: 0 - 10, 10 - 20 and not 0 - 10, 0 - 20, etc)
 
 ofc better design would be good for eyes. would be good for modal to have react-click-outside hoc added to it
+
+dev dependencies vs dependecies needs fixing if this ever goes in production ( i doubt it )
+
+some kind of styling package would be great
