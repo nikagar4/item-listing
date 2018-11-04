@@ -42,3 +42,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## From Author
+
+would add some type of clearing unseen list items to free up memory
+
+would be good if item container takes only last 10 and not 0 - all items as well (example: 0 - 10, 10 - 20 and not 0 - 10, 0 - 20, etc)
+
+ofc better design would be good for eyes. would be good for modal to have react-click-outside hoc added to it
